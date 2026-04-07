@@ -163,7 +163,7 @@ Attributes:
 
 ---
 
-## 🔗 Relationships & Cardinality
+##  Relationships & Cardinality
 
 * One User → One Trainer_Profile (1:1)
 
